@@ -2,7 +2,7 @@
 ## You can find me here <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/matheus-dorigon/)](https://www.linkedin.com/in/matheus-dorigon/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&target="_blank"&logoColor=white&url=mailto:email@provedor.com.br)](mailto:email@provedor.com.br)
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://portfolio-matheusdorigon.vercel.app)](https://portfolio-matheusdorigon.vercel.app)
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://portfolio-matheusdorigon.vercel.app&target="_blank")](https://portfolio-matheusdorigon.vercel.app)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&url=https://wa.me/5543998011390)](https://wa.me/5543998011390)
 
 ## Technologies that I use 💻
